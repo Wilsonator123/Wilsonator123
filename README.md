@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Git Profile
+--------
 
-<!--
-**Wilsonator123/Wilsonator123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working: Creating a website for the Coast Guard ([Check it out](https://github.com/Wilsonator123/coastal-guard))
+- 🌱 I’m currently learning: **Flask** and **NextJS**
+- 💬 Ask me about: The last problem I solved
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
+  email: georgexwilson52@gmail.com
+  
+  LinkedIn: https://www.linkedin.com/in/george-wilson-31474114b/
+- ⚡ Fun fact: I love a chats over coffee ☕ and a wannabe home cook 👨‍🍳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
