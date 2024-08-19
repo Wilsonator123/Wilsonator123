@@ -2,7 +2,7 @@
 --------
 
 - 🔭 I’m currently working: Creating a website for the Coast Guard ([Check it out](https://github.com/Wilsonator123/coastal-guard))
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **Rust**
 - 💬 Ask me about: The last problem I solved
 - 📫 How to reach me:
 
